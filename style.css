@@ -1,0 +1,19 @@
+body {
+  margin: 0 auto;
+  padding: 1em;
+  font-family: "Montserrat", sans-serif;
+  margin-right: 1em;
+  margin-left: 1em;
+}
+
+h2 {
+  font-size: 16px;
+}
+
+h3 {
+  font-family: "Montserrat", sans-serif;
+}
+
+h4 {
+  text-transform: uppercase;
+}
