@@ -22,3 +22,7 @@ h4 {
 a {
   color: #8c1d40;
 }
+
+ul li { 
+  padding: 3px 0px; 
+}
